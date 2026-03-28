@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jonbarnold.github.io/al-folio/sitemap.xml
+Sitemap: https://jonbarnold.github.io/sitemap.xml
